@@ -41,7 +41,6 @@
 .gap-x1j9xkj6:not(#\#):not(#\#){gap:7px}
 .gap-x167g77z:not(#\#):not(#\#){gap:8px}
 .outline-x1a2a7pz:not(#\#):not(#\#){outline:none}
-.overflow-xysyzu8:not(#\#):not(#\#){overflow:auto}
 .overflow-xb3r6kr:not(#\#):not(#\#){overflow:hidden}
 .transition-x1jjbm1c:not(#\#):not(#\#){transition:all .1s ease}
 .transition-xxksqoq:not(#\#):not(#\#){transition:background-color .1s ease}
@@ -125,6 +124,7 @@
 .fontWeight-x1xlr1w8:not(#\#):not(#\#):not(#\#){font-weight:700}
 .gridTemplateColumns-x1o61qjw:not(#\#):not(#\#):not(#\#){grid-template-columns:1fr 1fr}
 .gridTemplateColumns-xhsicrm:not(#\#):not(#\#):not(#\#){grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+.gridTemplateRows-x6ec99f:not(#\#):not(#\#):not(#\#){grid-template-rows:1fr 1fr}
 .justifyContent-xl56j7k:not(#\#):not(#\#):not(#\#){justify-content:center}
 .justifyContent-x1qughib:not(#\#):not(#\#):not(#\#){justify-content:space-between}
 .letterSpacing-xjat59b:not(#\#):not(#\#):not(#\#){letter-spacing:-0.01em}
