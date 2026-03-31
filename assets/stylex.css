@@ -8,15 +8,20 @@
 .margin-x1l69bjf:not(#\#){margin:0 0 8px 0}
 .margin-x1ghz6dp:not(#\#){margin:0}
 .padding-x1717udv:not(#\#){padding:0}
+.padding-x1tamke2:not(#\#){padding:16px}
+.padding-x1qhigcl:not(#\#){padding:20px}
 .padding-x15fnm84:not(#\#){padding:32px}
 .borderColor-x9uh73u:not(#\#):not(#\#){border-color:#1a6ce7}
 .borderColor-x9r1u3d:not(#\#):not(#\#){border-color:transparent}
 .borderColor-x4geah6:not(#\#):not(#\#){border-color:var(--surfaceLevel_2Border-x6thv3w)}
 .borderRadius-x2u8bby:not(#\#):not(#\#){border-radius:0}
+.borderRadius-x1q4ynmn:not(#\#):not(#\#){border-radius:10px}
 .borderRadius-x4pepcl:not(#\#):not(#\#){border-radius:12px}
 .borderRadius-x1nj7uno:not(#\#):not(#\#){border-radius:1px}
+.borderRadius-x18zih8k:not(#\#):not(#\#){border-radius:3px}
 .borderRadius-x12oqio5:not(#\#):not(#\#){border-radius:4px}
 .borderRadius-x1kogg8i:not(#\#):not(#\#){border-radius:6px}
+.borderRadius-xu4hgxq:not(#\#):not(#\#){border-radius:7px}
 .borderRadius-xur7f20:not(#\#):not(#\#){border-radius:8px}
 .borderRadius-x10hpsqq:not(#\#):not(#\#){border-radius:9999px}
 .borderStyle-xng3xce:not(#\#):not(#\#){border-style:none}
@@ -30,12 +35,15 @@
 .gap-xou54vl:not(#\#):not(#\#){gap:16px}
 .gap-x12mrbbr:not(#\#):not(#\#){gap:1px}
 .gap-x1665zp3:not(#\#):not(#\#){gap:24px}
+.gap-x195vfkc:not(#\#):not(#\#){gap:2px}
+.gap-x1ed6fcf:not(#\#):not(#\#){gap:3px}
 .gap-x1jnr06f:not(#\#):not(#\#){gap:4px}
 .gap-x1nejdyq:not(#\#):not(#\#){gap:5px}
 .gap-x17d4w8g:not(#\#):not(#\#){gap:6px}
 .gap-x1j9xkj6:not(#\#):not(#\#){gap:7px}
 .gap-x167g77z:not(#\#):not(#\#){gap:8px}
 .outline-x1a2a7pz:not(#\#):not(#\#){outline:none}
+.overflow-xysyzu8:not(#\#):not(#\#){overflow:auto}
 .overflow-xb3r6kr:not(#\#):not(#\#){overflow:hidden}
 .transition-x1jjbm1c:not(#\#):not(#\#){transition:all .1s ease}
 .transition-xxksqoq:not(#\#):not(#\#){transition:background-color .1s ease}
@@ -45,6 +53,7 @@
 .alignItems-x6s0dn4:not(#\#):not(#\#):not(#\#){align-items:center}
 .alignItems-xuk3077:not(#\#):not(#\#):not(#\#){align-items:flex-end}
 .alignItems-x1cy8zhl:not(#\#):not(#\#):not(#\#){align-items:flex-start}
+.alignItems-x1qjc9v5:not(#\#):not(#\#):not(#\#){align-items:stretch}
 .alignSelf-xkh2ocl:not(#\#):not(#\#):not(#\#){align-self:stretch}
 .backgroundColor-x1csb3ra:not(#\#):not(#\#):not(#\#){background-color:#0e9c73}
 .backgroundColor-xq575fr:not(#\#):not(#\#):not(#\#){background-color:#1a6ce7}
@@ -56,9 +65,12 @@
 .backgroundColor-x1582vc3:not(#\#):not(#\#):not(#\#){background-color:#e8f0fc}
 .backgroundColor-x1naspa6:not(#\#):not(#\#):not(#\#){background-color:#eeeeee}
 .backgroundColor-x9aprih:not(#\#):not(#\#):not(#\#){background-color:#f3be0f}
+.backgroundColor-x15sir8a:not(#\#):not(#\#):not(#\#){background-color:rgba(0,0,0,.07)}
 .backgroundColor-x1ttaxay:not(#\#):not(#\#):not(#\#){background-color:rgba(123,94,167,.06)}
 .backgroundColor-xjbqb8w:not(#\#):not(#\#):not(#\#){background-color:transparent}
+.backgroundColor-x2kt5h6:not(#\#):not(#\#):not(#\#){background-color:var(--interactionPressableDefaultBackground-x1ebljez)}
 .backgroundColor-x12ekh9h:not(#\#):not(#\#):not(#\#){background-color:var(--reusableBackgroundAdditionalInfo-x1nom0y6)}
+.backgroundColor-x3nzn7f:not(#\#):not(#\#):not(#\#){background-color:var(--reusableTextSecondary-x3w903u)}
 .backgroundColor-x3p7idg:not(#\#):not(#\#):not(#\#){background-color:var(--statusCautionBackground-xo2sut0)}
 .backgroundColor-xvx5jwo:not(#\#):not(#\#):not(#\#){background-color:var(--statusCriticalBackground-xuy2mv)}
 .backgroundColor-x14mmnzp:not(#\#):not(#\#):not(#\#){background-color:var(--statusInfoBackground-x88p9l8)}
@@ -72,9 +84,12 @@
 .boxSizing-x9f619:not(#\#):not(#\#):not(#\#){box-sizing:border-box}
 .color-x15s4m7f:not(#\#):not(#\#):not(#\#){color:#085bd7}
 .color-x1eq16d7:not(#\#):not(#\#):not(#\#){color:#0e9c73}
+.color-x1h6shb1:not(#\#):not(#\#):not(#\#){color:#1a7f3c}
 .color-x1m379dj:not(#\#):not(#\#):not(#\#){color:#6C3483}
 .color-xdeoy0f:not(#\#):not(#\#):not(#\#){color:#d3132f}
+.color-xt3eyvj:not(#\#):not(#\#):not(#\#){color:#e07b00}
 .color-xfungia:not(#\#):not(#\#):not(#\#){color:#fff}
+.color-x1bgcs2m:not(#\#):not(#\#):not(#\#){color:var(--interactionPressableDefaultContent-x1ylz278)}
 .color-x186hhfn:not(#\#):not(#\#):not(#\#){color:var(--reusableIconSubtle-x1elgdmy)}
 .color-x1jusg4h:not(#\#):not(#\#):not(#\#){color:var(--reusableLinkDefault-x7je2dg)}
 .color-x1aro5vg:not(#\#):not(#\#):not(#\#){color:var(--reusableTextPrimary-x1basixx)}
@@ -100,19 +115,24 @@
 .flexShrink-x2lah0s:not(#\#):not(#\#):not(#\#){flex-shrink:0}
 .flexWrap-x1a02dak:not(#\#):not(#\#):not(#\#){flex-wrap:wrap}
 .fontSize-x1k6wstc:not(#\#):not(#\#):not(#\#){font-size:10px}
+.fontSize-x1j6dyjg:not(#\#):not(#\#):not(#\#){font-size:11px}
 .fontSize-xfifm61:not(#\#):not(#\#):not(#\#){font-size:12px}
 .fontSize-x4z9k3i:not(#\#):not(#\#):not(#\#){font-size:13px}
 .fontSize-xif65rj:not(#\#):not(#\#):not(#\#){font-size:14px}
 .fontSize-x1j61zf2:not(#\#):not(#\#):not(#\#){font-size:16px}
 .fontSize-xwsyq91:not(#\#):not(#\#):not(#\#){font-size:20px}
+.fontSize-x1i1m3gp:not(#\#):not(#\#):not(#\#){font-size:22px}
 .fontWeight-xo1l8bm:not(#\#):not(#\#):not(#\#){font-weight:400}
 .fontWeight-xk50ysn:not(#\#):not(#\#):not(#\#){font-weight:500}
 .fontWeight-x1s688f:not(#\#):not(#\#):not(#\#){font-weight:600}
 .fontWeight-x1xlr1w8:not(#\#):not(#\#):not(#\#){font-weight:700}
+.gridTemplateColumns-x1o61qjw:not(#\#):not(#\#):not(#\#){grid-template-columns:1fr 1fr}
 .gridTemplateColumns-xhsicrm:not(#\#):not(#\#):not(#\#){grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
 .justifyContent-xl56j7k:not(#\#):not(#\#):not(#\#){justify-content:center}
 .justifyContent-x1qughib:not(#\#):not(#\#):not(#\#){justify-content:space-between}
 .letterSpacing-xjat59b:not(#\#):not(#\#):not(#\#){letter-spacing:-0.01em}
+.letterSpacing-x72az59:not(#\#):not(#\#):not(#\#){letter-spacing:-0.02em}
+.letterSpacing-x1vyo3qp:not(#\#):not(#\#):not(#\#){letter-spacing:.04em}
 .lineHeight-x1159mfc:not(#\#):not(#\#):not(#\#){line-height:1.1}
 .lineHeight-x1evy7pa:not(#\#):not(#\#):not(#\#){line-height:1.5}
 .lineHeight-x1dbl2gt:not(#\#):not(#\#):not(#\#){line-height:1.6}
@@ -125,7 +145,9 @@
 .position-x1n2onr6:not(#\#):not(#\#):not(#\#){position:relative}
 .position-x7wzq59:not(#\#):not(#\#):not(#\#){position:sticky}
 .textAlign-x2b8uid:not(#\#):not(#\#):not(#\#){text-align:center}
+.textAlign-x1hr2gdg:not(#\#):not(#\#):not(#\#){text-align:right}
 .textOverflow-xlyipyv:not(#\#):not(#\#):not(#\#){text-overflow:ellipsis}
+.textTransform-xtvhhri:not(#\#):not(#\#):not(#\#){text-transform:uppercase}
 .whiteSpace-xuxw1ft:not(#\#):not(#\#):not(#\#){white-space:nowrap}
 .zIndex-x1vjfegm:not(#\#):not(#\#):not(#\#){z-index:1}
 .cursor-xtgyt42:disabled:not(#\#):not(#\#):not(#\#){cursor:default}
@@ -152,7 +174,11 @@
 .borderRightColor-xu7skl3:not(#\#):not(#\#):not(#\#):not(#\#){border-right-color:var(--surfaceLevel_1Border-x1wzc3k4)}
 .borderRightColor-x1vd8tz1:not(#\#):not(#\#):not(#\#):not(#\#){border-right-color:var(--surfaceLevel_2Border-x6thv3w)}
 .borderRightStyle-x32b0ac:not(#\#):not(#\#):not(#\#):not(#\#){border-right-style:solid}
+.borderRightWidth-xgfja2r:not(#\#):not(#\#):not(#\#):not(#\#){border-right-width:0}
 .borderRightWidth-xs1s249:not(#\#):not(#\#):not(#\#):not(#\#){border-right-width:1px}
+.borderTopColor-x1yyqesr:not(#\#):not(#\#):not(#\#):not(#\#){border-top-color:var(--surfaceLevel_2Border-x6thv3w)}
+.borderTopStyle-x13fuv20:not(#\#):not(#\#):not(#\#):not(#\#){border-top-style:solid}
+.borderTopWidth-x178xt8z:not(#\#):not(#\#):not(#\#):not(#\#){border-top-width:1px}
 .bottom-x1ey2m1c:not(#\#):not(#\#):not(#\#):not(#\#){bottom:0}
 .bottom-xbfrwjf:not(#\#):not(#\#):not(#\#):not(#\#){bottom:4px}
 .height-x5yr21d:not(#\#):not(#\#):not(#\#):not(#\#){height:100%}
@@ -162,7 +188,10 @@
 .height-xxk0z11:not(#\#):not(#\#):not(#\#):not(#\#){height:24px}
 .height-x1fgtraw:not(#\#):not(#\#):not(#\#):not(#\#){height:28px}
 .height-x10w6t97:not(#\#):not(#\#):not(#\#):not(#\#){height:32px}
+.height-xqu0tyb:not(#\#):not(#\#):not(#\#):not(#\#){height:4px}
+.height-x1ycjhwn:not(#\#):not(#\#):not(#\#):not(#\#){height:5px}
 .height-x1peatla:not(#\#):not(#\#):not(#\#):not(#\#){height:64px}
+.height-xols6we:not(#\#):not(#\#):not(#\#):not(#\#){height:6px}
 .height-x1hagigm:not(#\#):not(#\#):not(#\#):not(#\#){height:7px}
 .left-xu96u03:not(#\#):not(#\#):not(#\#):not(#\#){left:0}
 .left-x1c5ba64:not(#\#):not(#\#):not(#\#):not(#\#){left:11px}
@@ -187,9 +216,12 @@
 .maxWidth-x1k5yvld:not(#\#):not(#\#):not(#\#):not(#\#){max-width:88%}
 .maxWidth-xyzno7u:not(#\#):not(#\#):not(#\#):not(#\#){max-width:960px}
 .minHeight-x1ba4aug:not(#\#):not(#\#):not(#\#):not(#\#){min-height:40px}
+.minWidth-xeuugli:not(#\#):not(#\#):not(#\#):not(#\#){min-width:0}
+.minWidth-xnei2rj:not(#\#):not(#\#):not(#\#):not(#\#){min-width:24px}
 .minWidth-x9041oi:not(#\#):not(#\#):not(#\#):not(#\#){min-width:2px}
 .overflowY-x1odjw0f:not(#\#):not(#\#):not(#\#):not(#\#){overflow-y:auto}
 .paddingBottom-x18d9i69:not(#\#):not(#\#):not(#\#):not(#\#){padding-bottom:0}
+.paddingBottom-x1a8lsjc:not(#\#):not(#\#):not(#\#):not(#\#){padding-bottom:10px}
 .paddingBottom-xsag5q8:not(#\#):not(#\#):not(#\#):not(#\#){padding-bottom:12px}
 .paddingBottom-x1g2khh7:not(#\#):not(#\#):not(#\#):not(#\#){padding-bottom:14px}
 .paddingBottom-x1l90r2v:not(#\#):not(#\#):not(#\#):not(#\#){padding-bottom:16px}
@@ -228,6 +260,7 @@
 .paddingTop-xexx8yu:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:0}
 .paddingTop-x889kno:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:10px}
 .paddingTop-xz9dl7a:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:12px}
+.paddingTop-xyinxu5:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:14px}
 .paddingTop-xyamay9:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:16px}
 .paddingTop-x109j2v6:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:18px}
 .paddingTop-x1cnzs8:not(#\#):not(#\#):not(#\#):not(#\#){padding-top:20px}
@@ -250,6 +283,8 @@
 .width-x1g8rjiy:not(#\#):not(#\#):not(#\#):not(#\#){width:3px}
 .width-x1l2rt3b:not(#\#):not(#\#):not(#\#):not(#\#){width:400px}
 .width-x51ohtg:not(#\#):not(#\#):not(#\#):not(#\#){width:4px}
+.width-xvni27:not(#\#):not(#\#):not(#\#):not(#\#){width:52px}
 .width-x1fu8urw:not(#\#):not(#\#):not(#\#):not(#\#){width:64px}
+.width-x1v4s8kt:not(#\#):not(#\#):not(#\#):not(#\#){width:6px}
 .width-xci0xqf:not(#\#):not(#\#):not(#\#):not(#\#){width:7px}
 .color-xwuv0vs:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#)::placeholder{color:var(--reusableTextSecondary-x3w903u)}
